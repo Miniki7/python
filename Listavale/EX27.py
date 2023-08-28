@@ -5,5 +5,5 @@ f = 1
 while c != 1:
     f = f * c
     c -= 1
-    print ('{} x {} = {}'.format(n,c,f))
+    print (f'{n} x {c} = {f}')
 print (f'O valor fatorial de {n} é igual a {f}!')
